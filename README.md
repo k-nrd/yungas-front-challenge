@@ -25,6 +25,7 @@ Sua tarefa é implementar as ações do módulo seguindo a linha estética dos m
 ## Os Critérios
 - Organização do projeto de acordo com responsabilidades.
 - Organização e reutilização do código via componentização.
+- Responsividade e "mobile-friendliness".
 - Utilizar CSS quando possível ao invés de JS.
 - Know-how de best practices do framework escolhido.
 - Presença e qualidade de testes.
