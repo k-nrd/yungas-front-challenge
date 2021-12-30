@@ -35,6 +35,7 @@ Sua tarefa é implementar as ações do módulo seguindo a linha estética dos m
 - Adotar estratégias escaláveis de gerenciamento de estado e/ou side-effects. 
 - Containerização.
 - Código funcional ao invés de orientado a objetos (somos fanáticos por Ramda e RxJS!).
+- Ter familiaridade com React Native/Vue Native/Svelte Native.
 - Comentários (pode ser no README) sobre como faria deploy deste app. Como lidaria com:
   - Configs?
   - Secrets?
