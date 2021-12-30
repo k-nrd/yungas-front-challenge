@@ -8,7 +8,9 @@ A Yungas utiliza [Svelte](https://svelte.dev/) para seu front-end. Familiaridade
 Evite libraries de componentes prontos ou frameworks de CSS - queremos ver sua capacidade de criar componentes que usam libraries externas ao framework, além de sua capacidade de estilizar a solução.
 
 ## O Desafio
-A Yungas é uma plataforma para redes de franquias com diversos módulos. A ideia desse desafio é simular o processo de desenvolvimento de um novo módulo da plataforma: o módulo de Treinamento.
+A Yungas é uma plataforma para redes de franquias com diversos módulos. A ideia desse desafio é simular, de maneira simplificada, o processo de desenvolvimento de um módulo da plataforma: o módulo de Treinamento. 
+
+O módulo de Treinamento é utilizado pelos clientes da Yungas para facilitar a capacitação de colaboradores e franqueados de suas redes, melhorando a produtividade dos colaboradores e o desempenho das franquias.
 
 Neste repositório você vai encontrar mockups do módulo de Treinamento, juntamente com um arquivo em Markdown (USER-STORIES.md) descrevendo algumas das ações que usuários que solicitaram a feature querem executar nesse módulo.
 
@@ -26,6 +28,7 @@ Sua tarefa é implementar as ações do módulo seguindo a linha estética dos m
 - Utilizar CSS quando possível ao invés de JS.
 - Know-how de best practices do framework escolhido.
 - Presença e qualidade de testes.
+- Interpretação das intenções estéticas do mockup, capacidade de preencher os "gaps".
 
 ## Extras 
 - Se fizer em Svelte, top, gostamos de Svelte :^) 
