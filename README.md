@@ -18,7 +18,7 @@ Sua tarefa é implementar as ações do módulo seguindo a linha estética dos m
 
 ## As Regras
 - Implementar em React, Vue ou Svelte.
-- Disponibilizar o resultado em repositório publico (não importa a plataforma).
+- Disponibilizar o resultado em repositório público (não importa a plataforma).
 - Não usar nenhuma library de componentes (drag and drop, file input etc).
 - Não usar nenhum framework CSS (tailwind, bootstrap etc).
 
