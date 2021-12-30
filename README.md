@@ -10,7 +10,7 @@ Utilize nesse desafio os frameworks que mais dominar, mas preferimos fortemente 
 ## O Desafio
 A Yungas é uma plataforma para redes de franquias com diversos módulos. A ideia desse desafio é simular o processo de desenvolvimento de um novo módulo da plataforma.
 
-Neste repositório você vai encontrar mockups do módulo que deve ser implementado, juntamente com um arquivo em Markdown (ACTIONS.md) descrevendo as ações que um usuário pode executar nesse módulo.
+Neste repositório você vai encontrar mockups do módulo que deve ser implementado, juntamente com um arquivo em Markdown (USER-STORIES.md) descrevendo as ações que um usuário pode executar nesse módulo.
 
 Sua tarefa é implementar as ações do módulo seguindo a linha estética dos mockups. Sinta-se livre para tomar suas próprias decisões de UI/UX - quanto mais suas decisões desviarem dos mockups, mais elas serão utilizadas como critério de avaliação (tanto para o bem quanto para o mal!).
 
