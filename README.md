@@ -43,7 +43,6 @@ Sua tarefa é implementar as ações do módulo seguindo a linha estética dos m
   - Configs?
   - Secrets?
   - Logs?
-  - Quanto mais detalhes, melhor!
-  - Deploy deste app na AWS ou Heroku (mas não precisa gastar dinheiro!).
+- Deploy deste app na AWS ou Heroku (mas não precisa gastar dinheiro!).
 
 Obs.: Em relação aos extras, não é "tudo ou nada", faça o que conseguir!
